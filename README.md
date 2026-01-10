@@ -12,6 +12,8 @@ Using **real survey data**,that will be shared in this repository with the analy
 
 The goal is to uncover **patterns in AI-driven work**, understand **evolving professional practices**, and assess how **GenAI is transforming the role of data scientists**.
 
+Survey Link: https://forms.gle/CMPXVNPpFkr5kJtRA
+
 ---
 
 ## 🎯 Objectives
